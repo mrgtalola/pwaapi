@@ -1,0 +1,24 @@
+{
+"product" : [
+[{"id":1,"name":"Gnu, brindled","category":"Violet"},
+{"id":2,"name":"White-bellied sea eagle","category":"Blue"},
+{"id":3,"name":"Vine snake (unidentified)","category":"Purple"},
+{"id":4,"name":"Malabar squirrel","category":"Aquamarine"},
+{"id":5,"name":"Wombat, southern hairy-nosed","category":"Mauv"},
+{"id":6,"name":"Agouti","category":"Crimson"},
+{"id":7,"name":"Swan, black","category":"Khaki"},
+{"id":8,"name":"Weaver, red-billed buffalo","category":"Yellow"},
+{"id":9,"name":"Antechinus, brown","category":"Khaki"},
+{"id":10,"name":"Hoopoe, eurasian","category":"Turquoise"},
+{"id":11,"name":"Vulture, lappet-faced","category":"Green"},
+{"id":12,"name":"Caracal","category":"Pink"},
+{"id":13,"name":"Spectacled caiman","category":"Maroon"},
+{"id":14,"name":"Southern boubou","category":"Mauv"},
+{"id":15,"name":"Flicker, field","category":"Indigo"},
+{"id":16,"name":"Cougar","category":"Violet"},
+{"id":17,"name":"California sea lion","category":"Fuscia"},
+{"id":18,"name":"Ovenbird","category":"Pink"},
+{"id":19,"name":"Toucan, red-billed","category":"Yellow"},
+{"id":20,"name":"Spectacled caiman","category":"Red"}
+]
+}
